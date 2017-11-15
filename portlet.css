@@ -1,0 +1,11 @@
+.plugin-gridster.Position .front {
+  background: #55b5e6 url('images/images.png') center 54px;
+  background-size:   90px 80px;
+  background-repeat: no-repeat;
+}
+
+.plugin-gridster.Position .back {
+  background: #070000 url('images/images2.png') center 34px;
+  background-size:   90px 80px;
+  background-repeat: no-repeat;
+}

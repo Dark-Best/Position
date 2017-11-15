@@ -1,0 +1,10 @@
+{
+  "modules" : { 
+    "Position"  : {
+      "description": "Donne la position",
+      "version"    : "3.16",
+	  "Auteur": "Avatar Rousseau (Dark Best)",
+	  "clef"	: "Votre clé a entré ici"
+    }
+  }
+}
